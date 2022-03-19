@@ -1,4 +1,10 @@
-
+body,html{
+  height: 100%
+}
+#hey {
+  background-image: url(https://w0.peakpx.com/wallpaper/140/43/HD-wallpaper-harry-potter-android-castle-drawing-harry-potter-hogwarts-thumbnail.jpg);
+  color: #fff;
+}
 #hey  h1 {
   margin:0;
 }
