@@ -1,13 +1,11 @@
 
 #hey {
-  font-family: 'Red Hat Mono', monospace;
-  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url(https://www.thesleepjudge.com/wp-content/uploads/2018/09/turquoise.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url(https://www.jotform.com/blog/wp-content/uploads/2022/02/ilyuza-mingazova-GUx0VBmMgQk-unsplash-768x509.jpg);
   color: #ffffff;
-  height: 700px;
+  height: 800px;
   background-size:cover;
 }
 #hey h1{
-  font-family: 'Shadows Into Light', cursive;
   margin:0;
 }
 nav {
