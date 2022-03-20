@@ -5,6 +5,10 @@
   color: #fff;
   height: 700px;
 }
+#hey h1{
+  font-family: 'Dancing Script', cursive;
+  margin:0;
+}
 nav {
   display: flex;
   justify-content: space-between;
