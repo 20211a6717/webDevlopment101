@@ -1,10 +1,9 @@
 
 #hey {
   font-family: 'Red Hat Mono', monospace;
-  background-image: url(https://colibriwp.com/blog/wp-content/uploads/2020/06/boris-stefanik-wxJscL5ZzDA-unsplash.jpg);
+  background-image: url(https://www.thesleepjudge.com/wp-content/uploads/2018/09/turquoise.jpg);
   color: #ffffff;
-  height: 600px;
-  width: 500px;
+  height: 700px;
   
 }
 #hey h1{
@@ -36,5 +35,11 @@ nav ul li{
   font-size:2rem;
   color: #fff;
   background-color:#3273a8;
-  
+  boder:none;
+  padding:.5rem 2rem;
+  cursor: pointer;
+  transition:all .3s ease;
 }
+.content button:hover{
+  background-color:#246091;
+} 
