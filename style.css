@@ -1,7 +1,7 @@
 
 #hey {
   font-family: 'Red Hat Mono', monospace;
-  background-image: url(https://www.thesleepjudge.com/wp-content/uploads/2018/09/turquoise.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url(https://www.thesleepjudge.com/wp-content/uploads/2018/09/turquoise.jpg);
   color: #ffffff;
   height: 700px;
   
@@ -33,9 +33,9 @@ nav ul li{
 }
 .content button{
   font-size:2rem;
-  color: #fff;
+  color: #ffffff;
   background-color:#3273a8;
-  boder:none;
+  border:none;
   padding:.5rem 2rem;
   cursor: pointer;
   transition:all .3s ease;
@@ -43,3 +43,8 @@ nav ul li{
 .content button:hover{
   background-color:#246091;
 } 
+
+.container{
+  max-width:800px;
+  margin:0 auto;
+}
