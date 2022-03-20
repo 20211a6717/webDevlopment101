@@ -21,6 +21,17 @@ nav ul li{
   margin: 0 1rem;
   font-weight: 700;
 }
-.content{
+
+.content {
+  text-align: center;
+  font-size: 4rem;
+  margin-top: 100px;
+  font-weight:800;
+  text-transform:uppercase;
+}
+.content button{
+  font-size:2rem;
+  color: #fff;
+  background-color:#3273a8;
   
 }
