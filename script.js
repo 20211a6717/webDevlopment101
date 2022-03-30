@@ -18,7 +18,7 @@ let frames={
 let loadImages=(callback)=>{
  let images={idle:[], kick:[], punch:[]};
  let imagesToLoad=0;
- ["idle", "kick", "punch"].forEach(animation)=>{
+ ["idle", "kick", "punch"].forEach(animation) =>{
   let animationFrames=frames[animation];
   imagesToLoad=imagesToLoad+ aniamtionFrames.length;
   aniamtionFrames.forEach(frameNumber)=>{
