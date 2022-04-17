@@ -4,7 +4,7 @@ let ctx= c.getContext("2d");
 let loadImage=(src,callback)=> {
  let img = document.createElement("img");
  img.onload=() => callback(img);
- img.src="https://cdn.glitch.global/61210fac-b0c7-44d0-a5f7-947d0c908b01/thumbnails%2Fidle.png?1648663167296";
+ img.src="1.png";
 }
 
 let imagePath= (frameNumber,animation)=> {
